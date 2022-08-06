@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DenebClone/static/css/main.35b449da.css",
+    "main.js": "/DenebClone/static/js/main.f732d31f.js",
+    "static/media/cbanner.png": "/DenebClone/static/media/cbanner.58d0b8e2f059af361819.png",
+    "static/media/projectback.png": "/DenebClone/static/media/projectback.67a6f106b3b9f149a327.png",
+    "static/media/hbox.png": "/DenebClone/static/media/hbox.82da7122c7b571578678.png",
+    "static/media/getback.png": "/DenebClone/static/media/getback.4723369f04098ce3e3e5.png",
+    "index.html": "/DenebClone/index.html",
+    "main.35b449da.css.map": "/DenebClone/static/css/main.35b449da.css.map",
+    "main.f732d31f.js.map": "/DenebClone/static/js/main.f732d31f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35b449da.css",
+    "static/js/main.f732d31f.js"
+  ]
+}
