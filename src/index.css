@@ -1,0 +1,316 @@
+/* Navr Bar  */
+.hbtn{
+   background-color: #feb000;
+   color: white;
+   width: 120px;
+   border-radius: 47px;
+   padding: 7px;
+}
+.nav-link{
+   color: #76787bda !important;
+   font-weight:500;
+}
+.nav-item{
+   margin-right: 30px;
+}
+
+
+
+/****************************** Home Page CSS ****************************************************************/
+
+/* Slider */
+
+.slider1{
+   background-image: url(../public/Img/slider11.png);
+   background-repeat: no-repeat;
+}
+.slidertext{
+   margin-top: 100px;
+   margin-left: 100px;
+   word-spacing: 3px;
+}
+.slidertext h1{
+   font-size: 58px;
+}
+.stext{
+   color: #feb000;
+   font-weight: bold;
+}
+.simg1{
+   position: relative;
+   right: 70px;
+}
+.carousel-indicators li {
+   width: 10px;
+   height: 10px;
+   background-color: #feb000;
+   border-radius: 50%;
+}
+
+
+/* Our Services */
+.pcolor{
+   color: #7a808d;
+   font-size:16px;
+}
+.fa-play{
+   color: #feb000;
+   font-size: 15px;
+}
+
+
+.scard:hover{
+   border: 2px dashed #feb000;
+   border-radius: 10px;
+   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.simg{
+   width: 100px;
+   height: 100px;
+
+}
+.simg2{
+   width: 100px;
+   position: relative;
+   top: 0px;
+   left: 40%;
+}
+.scard{
+   width: 350px;
+   padding-bottom: 30px;
+   border: none;
+}
+
+/* why you hire us */
+
+.hbox{
+   background-image: url(../public/Img/hbox.png);
+   background-repeat: no-repeat;
+}
+      
+.pepole{
+   margin-top:90px !important;
+}
+
+/* Record */
+.rbox{
+   background-image: url(../public/Img/record-back.png);
+   background-repeat: no-repeat;
+   background-position: right;
+   background-position: 799px -16px;
+}
+.rbox1{
+   background-color: white;
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+   float: left;
+
+}
+.rbox1:hover{
+   border: 2px dashed #feb000;
+}
+
+/* latest Project */
+.projectback{
+   background-image: url(../public/Img/projectback.png);
+   background-repeat: no-repeat;
+   background-position: left;
+}
+.btnactive{
+   background-color: #feb000;
+   border: 1px solid white;
+   border-radius: 30px;
+   color: white;
+   padding: 10px 20px;
+   box-shadow: #feb200d7 0px 8px 24px;
+}
+.pcard{
+   border-radius: 10px;
+   transition: 0.4s all ease-in-out;
+}
+.pcardimg{
+
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+.pcard:hover{
+   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+/* pricing */
+.pricecard{
+   width: 360px;
+   border: none;
+}
+.joyimg{
+   border-radius: 50%;
+   box-shadow: 11px -5px 2px 2px #feb000;
+}
+.eimg1{
+   position: relative;
+   left: 100px;
+}
+
+/* Blog */
+.blogcard:hover{
+   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+/* get in touch */
+
+.getback{
+   background-image: url(../public/Img/getback.png);
+   background-repeat: no-repeat;
+}
+.tinput{
+   border-radius: 30px;
+   width:45%;
+   height: 45px;
+   background: #fff;
+   border: none;
+   outline: none;
+   margin-top:30px;
+   margin-left:20px;
+   box-shadow: 2.5px 4.33px 15px #00000026;
+   text-indent: 10px;
+}
+.tinput1{
+   height:120px;
+   width: 90%;
+   margin-top:30px;
+   margin-left:20px;
+   box-shadow: 2.5px 4.33px 15px #00000026;
+   border-radius: 10px;
+   border: none;
+   outline: none;
+   text-indent: 10px;
+}
+.banner{
+   background-color: #feb000;
+   border-radius: 10px;
+}
+.whypeople{
+   position: relative;
+   top: -150px;
+}
+
+/****************************** Contact Us Page CSS **************************************************************/
+.cbanner{
+   background-image: url(../public/Img/cbanner.png);
+   height: 400px;
+   background-size: 100% 100%;
+}
+.ctext{
+   position: relative;
+   top: 140px;
+   left: 100px;
+}
+.ctext h1{
+   font-size: 55px;
+   font-weight: 500;
+}
+.finput{
+   border-radius: 30px;
+   width: 100%;
+   height: 45px;
+   background: #fff;
+   border: none;
+   outline: none;
+   padding-left: 20px;
+   box-shadow: 2.5px 4.33px 15px #00000026;
+   text-indent: 10px;
+}
+
+/****************************** Footer CSS **************************************************************/
+.sicon{
+   margin-left: 15px;
+   background-color: #f5dabf;
+   padding:6px 9px;
+   border-radius: 50%;
+   cursor: pointer;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.sicon:hover{
+   background-color: #feb000;
+}
+.footer{
+   background-image: url(../public/Img/footer.png);
+   background-size: 100% 100%;
+}
+.flink{
+   list-style-type: none;
+   margin-top: 9px;
+}
+
+/****************************** Service Page CSS **************************************************************/
+
+
+.serviceimg{
+   width:80px;
+   height: 60px;
+}
+.service{
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   padding: 10px;
+   border-radius: 10px;
+}
+.service:hover{
+   border: 2px dashed #feb000;
+   cursor: pointer;
+}
+.subserviceimg{
+   border-radius: 10px;
+   box-shadow: 32px -35px 1px 2px #feb000;
+}
+
+.iconimg{
+   position: relative;
+   left: -110px;
+   top: 50px;
+   z-index: -99;
+}
+
+
+/* work */
+.work{
+ padding: 25px; 
+ height:97px;
+ border-radius: 50%;
+}
+
+/****************************** About Page CSS **************************************************************/
+
+.skill{
+   background-color: #f6f6f6;
+   height:17px;
+   margin-top: 10px;
+   border-radius: 10px;
+}
+.subskill{
+   height: 100%;
+   width: 85%;
+   background-color: #feb000;
+   border-radius: 10px;
+
+}
+
+.wbox{
+   border-radius: 10px;
+}
+.wbox:hover{
+   background-color: #feb000;
+   color:white;
+}
+.swork{
+   background-color: #faedcf;
+   height: 110px;
+   border-radius: 50%;
+}
+.swork1{
+   background-color: #feb000;
+   width: 95%;
+   margin-top: 15px;
+   height: 70%;
+   border-radius: 50%;
+}
